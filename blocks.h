@@ -4,7 +4,6 @@ static const Block blocks[] = {
 	{" ",      "dwm_bar song",	         10,                  10},
 	{"  ",    "dwm_bar nvme",	         180,                  0},
 	{"  ",    "dwm_bar sata",	         180,                  0},
-	{"  ",    "dwm_bar news",	         1800,                13},
 	{" ",      "dwm_bar network",	         30,                   0},
 	{" ",      "dwm_bar brightness",         0,                   11},
 	{" ",      "dwm_bar vol",                0,                   12},
